@@ -1,6 +1,6 @@
 # Yes-Bank-Stock-Closing-Price-Prediction
 ## Project Summary -
-Yes Bank was a very reputed bank till 2018. After 2018, the bank came under the umbrella of risk inflated banks. This project would help not only ys bank but to all those banks who want to predict their future who are under connundrum for their future. So Machine Learning is helping us to resolve the issue of all those companies and firms who want to gather some courage in order to survive in the market for longer time.
+Yes Bank was a very reputed bank till 2018. After 2018, the bank came under the umbrella of risk inflated banks. This project would help not only yes bank but to all those banks who want to predict their future who are under connundrum for their future. So Machine Learning is helping us to resolve the issue of all those companies and firms who want to gather some courage in order to survive in the market for longer time.
 By predicting the price with the acquinatance of Machine Learning espicially the linear Regression and other regressors, which helped firms and companies.
 In this project the monthly Open,Close,Low and High prices of Yess Bank stock have helped to train the model on which learning occured and then the respective prediction occurs.
 
