@@ -2,7 +2,7 @@
 ## Project Summary -
 Yes Bank was a very reputable bank till 2018. After 2018, the bank came under the umbrella of risk-inflated banks. This project would help not only the Yes bank but all those banks who want to predict their future and are in a conundrum for their future. So Machine Learning is helping us resolve the issue of all those companies and firms who want to gather some courage to survive in the market for longer.
 By predicting the price with the acquaintance of Machine Learning especially the linear Regression and other regressors, which helped firms and companies.
-In this project, the monthly Open, Close, Low, and High prices of Yess Bank stock have helped to train the model on which learning occurs and then the respective prediction occurs.
+In this project, the monthly Open, Close, Low, and High prices of Yes Bank stock have helped to train the model on which learning occurs and then the respective prediction occurs.
 
 ## Variables Description
 ![image](https://user-images.githubusercontent.com/122529968/229983233-e69f98e3-17f8-43e5-9cbb-f205cd098161.png)
